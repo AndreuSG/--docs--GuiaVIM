@@ -139,7 +139,7 @@ Todos los comandos se ejecutan desde el **modo normal** (pulsa `<Esc>` para aseg
 
 ---
 
-## 8. 📄 Manejo de múltiples archivos
+## 8. Manejo de múltiples archivos
 - `:e archivo.txt` → abrir otro archivo en el mismo Vim.
 - `:ls` → listar buffers abiertos.
 - `:bN` → ir al buffer número N.
@@ -148,7 +148,7 @@ Todos los comandos se ejecutan desde el **modo normal** (pulsa `<Esc>` para aseg
 
 ---
 
-## 9. 🪄 Comandos útiles extra
+## 9. Comandos útiles extra
 - `.` → repetir el último comando.
 - `:%d` → borrar todo el contenido del archivo.
 - `:!comando` → ejecutar un comando de la shell (ej: `:!ls`).
@@ -156,7 +156,7 @@ Todos los comandos se ejecutan desde el **modo normal** (pulsa `<Esc>` para aseg
 
 ---
 
-## 10. 🎨 Personalización y configuración
+## 10. Personalización y configuración
 - Vim se puede personalizar con un archivo `.vimrc` en tu directorio home.
 - Para crear/editar: `vim ~/.vimrc`
 
